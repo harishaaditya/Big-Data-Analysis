@@ -75,3 +75,6 @@ This task showcased the use of PySpark for handling big data, even though the Ti
 
 PySpark allows data scientists to work with large datasets by providing high-level APIs for data manipulation, aggregation, and analysis. This task served as an excellent introduction to the power and scalability of PySpark, demonstrating how even small datasets can benefit from the distributed processing power of Spark. With its ability to scale horizontally, PySpark is an ideal tool for handling much larger datasets in future big data analysis tasks.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/7dc64abc-094c-4d4c-bd27-43f29365f6ad)
