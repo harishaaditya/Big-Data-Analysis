@@ -1,5 +1,16 @@
 # Big-Data-Analysis
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : HARISH AADITYA SRIDHARAN
+
+*INTERN ID* : CT1MTDL12
+
+*DOMAIN* : DATA ANALYTICS
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTOSH
 
 In this task, I utilized PySpark, a Python API for Apache Spark, to conduct a comprehensive data analysis on the Titanic dataset. The Titanic dataset, often used in data science and machine learning exercises, contains information about passengers aboard the Titanic, including whether they survived or not. This task aimed to demonstrate the use of big data tools like PySpark for analyzing large datasets, processing them efficiently, and generating valuable insights.
 
